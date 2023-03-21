@@ -1,0 +1,22 @@
+.forDivein {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.forImage {
+  width: 350px;
+  height: 270px;
+}
+
+.forheaderItem {
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.forParaItem {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 18px;
+  text-align: center;
+}
